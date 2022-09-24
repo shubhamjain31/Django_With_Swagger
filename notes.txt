@@ -1,0 +1,3 @@
+http://localhost:8000/api/v1/todo/?ordering=-id
+http://localhost:8000/api/v1/todo/?search=My
+http://localhost:8000/api/v1/todo/?title=string
